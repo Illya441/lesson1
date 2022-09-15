@@ -1,0 +1,13 @@
+p, h1, h2{
+  color: rgb(224, 123, 123);
+}
+html {
+  background-color: #333333;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #d1eb61;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(157, 113, 240);
+}
